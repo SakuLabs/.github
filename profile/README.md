@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="banner.png" alt="Saku banner" width="100%" />
+
 # 策 Saku
 
 **Plan · Strategy · Policy**
